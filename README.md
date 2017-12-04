@@ -8,3 +8,4 @@ Also needed are a buzzer, two leds, nine jumper wires and five countersunk M3 nu
 
 Example block code: https://makecode.microbit.org/_YeH7suVvqahh
 
+Full wiring and making instructions coming soon..
